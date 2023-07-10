@@ -152,3 +152,11 @@ main section{
     margin-top: 50px;
  
 }
+/* footer style */
+footer{
+    display:flex;
+    background:#c7b2a4;
+    margin-top:100px;
+    padding: 130px 200px;
+  
+}
